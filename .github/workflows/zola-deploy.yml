@@ -1,15 +1,18 @@
-on:
-  push:
-    branches:
-      - main
-name: Build and deploy on push
+name: Zola on GitHub Pages
+
+on: 
+ push:
+  branches:
+   - main
+
 jobs:
   build:
-    name: zbrox/zola-deploy-action
+    name: Publish site
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: zbrox/zola-deploy-action
-      uses: zbrox/zola-deploy-action@master
+    - name: Checkout main
+      uses: actions/checkout@v4
+    - name: Build and deploy
+      uses: shalzz/zola-deploy-action@v0.18.0
       env:
-        TOKEN: ${{ secrets.TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
