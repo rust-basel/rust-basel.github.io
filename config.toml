@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.org"
+base_url = "https://rust-basel.github.io/website/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -38,7 +38,7 @@ generator = "Zola v0.18.0"
 path_language_resources = "i18n/"
 
 # Favicon as SVG graphics
-favicon_svg = "/img/yin-yang.svg"
+favicon_svg = "/img/favicon.svg"
 
 # The copyright notice
 copyright = "Copyright {year} by Yasin Gündüz and Roland Brand"
