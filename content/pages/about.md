@@ -1,38 +1,28 @@
 +++
-date = 2019-03-11
+date = 2024-02-13
 title = "About"
-description = "Who I am and what this site is all about"
+description = "Who are we what this site is all about"
 template = "page.html"
-authors = ["Thomas Weitzel"]
+authors = ["Yasin Guenduez"]
 +++
 
-## Who am I?
-My name is **Thomas Weitzel**.
-When people have trouble pronouncing my last name, I suggest to try _White Cell_.
-If you want to call me by my nickname, that's fine, too.
-It is **Thomy**, pronounced like _Tommy_.
+We are Roland and Yasin and we are Rust enthusiasts.  
+Dragged by our enthusiam for the language, we try to connect all other rust enthusiats in and around the Basel(CH) area.
 
-I work as an independent software developer since more than twenty years.
-Industries I've worked in include Finance, Health Care, Automotive, Military, and Government.
-Mostly I worked on internal projects, but also some software products.
-My mother tongue is German.
+We both work as Software Engineers and use Rust in our private projects as well as in our day to day jobs.
 
 ## What's the topic?
-This blog covers my findings while exploring various aspects of programming in general, with a special focus on functional programming.
+Rust - of course.
 
-## The motivation?
-Why do people climb mountains?
-British mountaineer George Mallory famously answered: *Because they're there*.
-They want to reach the top faster, in a more efficient or elegant way, differently than anybody else, or even at all.
-That's how you approach problem-solving in programming.
+You will find all resources from our [meetups](https://www.meetup.com/de-DE/rust-basel/) and workshops here. Each post resembles either a meetup or a workshop about a specific rust topic.
 
 ## What to expect
-Since I'm coming from an object-oriented background, expect all sorts of problems I'm stumbling into and then getting out of.
-C, C++, and Java were my first professionally used programming languages.
-Later I switched to Scala, and even later to Kotlin.
-I had, and still have, a lot to learn, even more to unlearn, and I'm not nearly done yet.
-If you're having a similar background, maybe you can get something out of my mistakes and the occasional success.
+Links, ressources, slides and/or videos from our meetups and workshops we did.
 
-## _Do, or not do. There is no try_. &ndash; Yoda
-The decision is not between doing something or not.
-It's that *trying* is something more than just any attempt.
+## Learning by doing
+Jokes aside. Most of our workshops or meetups are topics we find interesting and worth sharing. 
+From time to time we also organize workshops for people that are interested in learning rust, or rust specific topics. Stay tuned!
+
+If you also want to share a rust specific topic - contact us and we will find a way to share your topic with other fellow Rustaceans. 
+
+Until then, have a great time!
