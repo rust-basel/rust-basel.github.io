@@ -7,16 +7,13 @@ authors = ["Roland Brand"]
 +++
 
 <!-- Add two spaces after each line to enforce line break -->
-> *Roland Brand / Yasin Gündüz*
-> *Roland Brand*
-> *Tellstrasse 66*
-> *4053 Basel*
-> *Switzerland*
+> *Roland Brand / Yasin Gündüz*  
+> *Tellstrasse 66*  
+> *4053 Basel*  
+> *Switzerland*  
 
 Copying and redistribution of all our pages for private, non-commercial use is permitted provided this notice is attached.
 See section [Copyright](#copyright) for more information.
-
-## Disclaimer
 
 ### Liability for links
 Our website contains links to external websites of third parties over whose contents we have no influence. Therefore, we are not liable for these external contents. The provider or operator of these pages is always responsible for the contents of the linked pages. At the time of linking we have checked the linked pages for possible legal violations. Illegal content was not recognizable at the time of linking. A permanent control of the content of the linked pages is not reasonable without concrete evidence of an infringement. Upon notification of violations, we will remove such links immediately.
