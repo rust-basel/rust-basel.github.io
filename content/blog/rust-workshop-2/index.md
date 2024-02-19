@@ -1,5 +1,5 @@
 +++
-date = 2023-07-01
+date = 2024-04-30
 title = "Rust Workshop #2"
 description = "Fullstack Rust. Let's build a web application completely in Rust."
 authors = ["Yasin Gündüz"]
