@@ -10,15 +10,15 @@ math = true
 image = "banner.png"
 +++
 
-# DRAFT
+# DRAFT - Date is still in discussion
 
 Our second Rust workshop in Basel. This time it's about fullstack Rust. Writing you backend, and also your frontend in the rust programming language. 
 
-For this workshop we will use [dioxus](https://dioxuslabs.com/), where you can write your fullstack web application completely in rust. It also offers UI native for desktop and even on mobile apps.
+For this workshop we will use [dioxus](https://dioxuslabs.com/), where you can write your fullstack web application completely in rust. It also offers UI native for desktop and even for mobile apps.
 
-So what does this workshop look like? Having the insights from our previous workshop, we will split the worksop into small digestiable parts. The first part will be going through the parts we need for the hands on part, where we explain basic concepts of the dioxus framework. 
+So what does this workshop look like? Having the insights from our previous workshop, we will split the workshop into small digestible parts. The first part will be going through the parts we need for the hands on part, where we explain basic concepts of the dioxus framework. 
 
-The second part will be a hands-on part, where we will build a web app, where you can log in with an oAuath procedure.
+The second part will be a hands-on part, where we will build a web app, where you can log in with an oAuth procedure.
 
 ## Part 1
 
