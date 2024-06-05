@@ -37,8 +37,8 @@ generator = "Zola v0.18.0"
 # Path to the language resource files
 path_language_resources = "i18n/"
 
-# Favicon as SVG graphics
-favicon_svg = "/img/favicon.svg"
+# Favicon as PNG
+favicon_png = "/img/favicon.png"
 
 # The copyright notice
 copyright = "Copyright {year} by Yasin Gündüz and Roland Brand"
