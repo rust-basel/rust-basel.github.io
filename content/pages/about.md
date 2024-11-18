@@ -6,8 +6,8 @@ template = "page.html"
 authors = ["Yasin Guenduez"]
 +++
 
-We are Roland and Yasin and we are Rust enthusiasts.  
-Dragged by our enthusiam for the language, we try to connect all other rust enthusiats in and around the Basel(CH) area.
+We are Roland, Silen and Yasin and we are Rust enthusiasts.  
+Dragged by our enthusiasm for the language, we try to connect all other rust enthusiasts in and around the Basel(CH) area.
 
 We both work as Software Engineers and use Rust in our private projects as well as in our day to day jobs.
 
@@ -17,7 +17,7 @@ Rust - of course.
 You will find all resources from our [meetups](https://www.meetup.com/de-DE/rust-basel/) and workshops here. Each post resembles either a meetup or a workshop about a specific rust topic.
 
 ## What to expect
-Links, ressources, slides and/or videos from our meetups and workshops we did.
+Links, resources, slides and/or videos from our meetups and workshops we did.
 
 ## Learning by doing
 Jokes aside. Most of our workshops or meetups are topics we find interesting and worth sharing. 
