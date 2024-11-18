@@ -41,7 +41,7 @@ path_language_resources = "i18n/"
 favicon_png = "/img/favicon.png"
 
 # The copyright notice
-copyright = "Copyright {year} by Yasin Gündüz and Roland Brand"
+copyright = "Copyright {year} Rust Basel"
 
 # The description shown on banner
 site_description = "Basel's local Rust User Group, uniting Rustaceans from the Basel Region since 2019"
