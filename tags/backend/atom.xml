@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Backend</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/backend/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-01T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/backend/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Workshop #1</title>
+        <published>2023-07-01T00:00:00+00:00</published>
+        <updated>2023-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-1/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-1/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-1/">&lt;p&gt;Our first Rust workshop in Basel. The workshop itself was split into two parts. 
+Part 1 was about some Rust basics, so participants can read and also write basic Rust programs.
+Part 2, in the afternoon, participants could solve a small coding challenge: To create a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Create,_read,_update_and_delete&quot;&gt;CRUD&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;REST&quot;&gt;Rest&lt;&#x2F;a&gt; API simulation a Pokedex, where you can manage your gathered information about your Pokemon discoveries.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-1&quot;&gt;Part 1&lt;&#x2F;h2&gt;
+&lt;p&gt;The first part of the workshop was about basic Rust topics, including:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tooling&lt;&#x2F;li&gt;
+&lt;li&gt;Function &amp;amp; structs&lt;&#x2F;li&gt;
+&lt;li&gt;Branching &amp;amp; Looping&lt;&#x2F;li&gt;
+&lt;li&gt;Traits&lt;&#x2F;li&gt;
+&lt;li&gt;Memory &amp;amp; Lifetimes&lt;&#x2F;li&gt;
+&lt;li&gt;Enums, matches &amp;amp; errors&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you are keen to look into details, we recommend you have a look at the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;rust-meetup-8&#x2F;blob&#x2F;main&#x2F;slides.md&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-2&quot;&gt;Part 2&lt;&#x2F;h2&gt;
+&lt;p&gt;The second part of the workshop was about creating a small REST API.
+Therefore we created a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-pokedex-starter&quot;&gt;code skeleton&lt;&#x2F;a&gt;, that participants could use.&lt;&#x2F;p&gt;
+&lt;p&gt;Goal of the workshop would have been:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Create a webserver, offering create, read, update and delete endpoints for Pokémon:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;To create Pokémon: &lt;code&gt;POST &#x2F;pokemon&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To read Pokémon: &lt;code&gt;GET &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To update an existing Pokémon: &lt;code&gt;PATCH &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To delete a Pokémon: &lt;code&gt;DELELTE &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;During the workshop participants got help from us, so they could work into the goal&#x27;s direction. &lt;&#x2F;p&gt;
+&lt;p&gt;Most of the participants did not finish the challenge, as the challenge itself seemed too much of a scope. Nethertheless we provided a possible &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-pokedex&quot;&gt;solution&lt;&#x2F;a&gt; for the challenge.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;As this was our first workshop, we also gained a lot of knowledge. First of all - do not expect the participants to know what you already know. Doing Rust for several years vs. someone who just started with their first typed langauge. Obviously that is out of scope.
+Some participants also wished the second part would have been more guided. I.e. we show them step by step on how to build such a Rest backend in Rust.&lt;&#x2F;p&gt;
+&lt;p&gt;So for our next workshops we will consider those two points.
+But in general people liked the workshop and also learned a lot - especially the first part with the basics was considered very good.&lt;&#x2F;p&gt;
+&lt;p&gt;So what else to say? I guess we see us in the next workshop.&lt;&#x2F;p&gt;
+&lt;p&gt;Best
+Roland &amp;amp; Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
