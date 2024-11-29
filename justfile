@@ -1,0 +1,2 @@
+serve:
+    zola serve
