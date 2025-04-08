@@ -1,4 +1,12 @@
-+++ date = 2025-03-18 title = "Rust Meetup #10" description = "Talks, Snacks, and Community Vibes, discussions around Rust adoption in the industry" authors = ["Roland Brand"] [taxonomies] tags = ["Talks", "Ecosystem", "Industry", "Learning Curve"]+++
++++
+date = 2025-03-18
+title = "Rust Meetup #10"
+description = "Talks, Snacks, and Community Vibes, discussions around Rust adoption in the industry"
+authors = ["Roland Brand"]
+
+[taxonomies]
+tags = ["Talks", "Ecosystem", "Industry", "Learning Curve"]
++++
 
 # Rust Basel Meetup #10 – Talks, Snacks, and Community Vibes
 
