@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://rust-basel.ch"
+#base_url = "https://rust-basel.ch"
+base_url = "localhost"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -14,7 +15,7 @@ default_language = "en"
 build_search_index = false
 
 # When set to "true", a feed is automatically generated
-# generate_feed = true
+generate_feeds = true
 
 # The taxonomies to use for the site
 taxonomies = [
