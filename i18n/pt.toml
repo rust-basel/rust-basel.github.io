@@ -1,0 +1,34 @@
+# Global settings
+settings_locale = "pt"
+settings_date_locale = "pt_BR"
+settings_date_format = "%d. %B %Y"
+
+# Simple language resources
+empty_page_title = "Título vazio"
+empty_page_description = "Descrição vazia"
+read_more = "Leia Mais"
+previous_posts = "Artigo anterior"
+next_posts = "Próximo artigo"
+reading_time = "tempo de leitura"
+aria_to_homepage = "Vá para homepage"
+aria_menu = "Menu"
+with_tag = "com tag"
+not_found_header = "A pagina solicitada não funciona."
+not_found_text = "Oops! Parece que a pagina desapareceu pelo abismo da internet. Talvez ela esteja de férias? Por favor verifique a URL ou me chame, and eu irei ver se posso localiza-la, ou ao menos enviar um grupo de busca."
+
+# Nouns with singular and plural
+[words]
+one = "palavra"
+other = "palavras"
+
+[minutes]
+one = "minuto"
+other = "minutos"
+
+[posts]
+one = "post"
+other = "posts"
+
+[tags]
+one = "tag"
+other = "tags"

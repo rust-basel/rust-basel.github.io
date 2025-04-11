@@ -14,7 +14,7 @@ default_language = "en"
 build_search_index = false
 
 # When set to "true", a feed is automatically generated
-# generate_feed = true
+generate_feeds = true
 
 # The taxonomies to use for the site
 taxonomies = [
