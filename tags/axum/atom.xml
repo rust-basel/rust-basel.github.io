@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Axum</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/axum/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-23T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/axum/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Workshop #3</title>
+        <published>2024-11-23T00:00:00+00:00</published>
+        <updated>2024-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Silen Locatelli
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Roland Brandh
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-3/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-3/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-3/">&lt;h1 id=&quot;topic&quot;&gt;Topic&lt;&#x2F;h1&gt;
+&lt;p&gt;Our third Rust workshop in Basel. This time we tackled creating a web application with Rust and using HTMX.&lt;&#x2F;p&gt;
+&lt;p&gt;As there exists something like a javascript &amp;quot;fatigue&amp;quot; with ever new emerging JavaScript Frameworks,
+the web world seems to go back to server side rendering, which reduces the amount of complexity.
+As until now, we had to swap the whole page, when we rendered server side. HTMX fixes this by bringing
+reactivity in browser, to only fetch HTML directly from the server endpoints instead of JSON and exchange this HTML snippet in a
+defined place in the DOM.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;&#x2F;h1&gt;
+&lt;p&gt;The guidebook from this workshop you can find &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;https:&#x2F;&#x2F;rust-basel.ch&#x2F;htmx-workshop-meetup-10&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.
+If you also want to execute the code snippets we provided, you can also clone&#x2F;fork the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;htmx-workshop-meetup-10&quot;&gt;repository&lt;&#x2F;a&gt; direclty, as everything is
+in the same place.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;outline-of-the-workshop&quot;&gt;Outline of the Workshop&lt;&#x2F;h1&gt;
+&lt;p&gt;First we had a lecture style morning, where Silen, Yasin and Roland talked about the needed components (server, server side rendering, htmx) for the afternoon,
+where people were on their own hacking their own htmx application.&lt;&#x2F;p&gt;
+&lt;p&gt;Yasin talked about Axum, how you write endpoints in the webserver framework &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tokio-rs&#x2F;axum&quot;&gt;axum&lt;&#x2F;a&gt;. Also the participants
+learned how to add receive data in an endpoint and how to add, read and mutate state in their application.&lt;&#x2F;p&gt;
+&lt;p&gt;Roland tought participants, how they can render server side html with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;djc&#x2F;askama&quot;&gt;askama&lt;&#x2F;a&gt;. He showed
+how you can compose html templates together to build a bigger template. Or inherit a base layout, which is important if you want
+to have e.g. a navigation bar or a footer for your web application.&lt;&#x2F;p&gt;
+&lt;p&gt;Silen showed in the end how &lt;a href=&quot;https:&#x2F;&#x2F;htmx.org&#x2F;&quot;&gt;htmx&lt;&#x2F;a&gt; works. How you can simply fetch HTML and insert, or exchange the fetched HTML in the DOM.
+Moreover he showed live examples from his work, where he uses HTMX with Kotlin and showed it. He also built
+a htmx web application in this year&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;www.baselhack.ch&#x2F;&quot;&gt;baselhack&lt;&#x2F;a&gt;, that he also showcased.&lt;&#x2F;p&gt;
+&lt;p&gt;After a small pizza break, the participants could apply the tought content in a free manner, where they could
+build a small application themselves, or just tried out things in the specified parts (Webserver, Rendering, HTMX).&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-meetup-itself&quot;&gt;The meetup itself&lt;&#x2F;h1&gt;
+&lt;p&gt;We had 6 participants (9 with the organizers), that enjoyed a lecture in the morning, Pizza at &lt;a href=&quot;https:&#x2F;&#x2F;www.vito.ch&#x2F;&quot;&gt;VITO&lt;&#x2F;a&gt; at Aeschenplatz in Basel,
+and a &amp;quot;hacking&amp;quot; part in the afternoon. They could either build their own application, or build on top the tought content and
+got help from lecturers, if they needed.&lt;&#x2F;p&gt;
+&lt;p&gt;Some impressions from this meetup:&lt;&#x2F;p&gt;
+&lt;div style=&quot;display:flex; justify-content:space-between&quot;&gt;
+    &lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;workshop-33.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+    &lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;workshop-31.jpg&quot; width=&quot;50%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h1&gt;
+&lt;p&gt;We are very grateful for Endress+Hauser Digital Solutions for sponsoring the food and drinks for this event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;EndressLogo.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;We are also very grateful for &lt;a href=&quot;https:&#x2F;&#x2F;www.letsboot.ch&#x2F;&quot;&gt;Letsboot.ch&lt;&#x2F;a&gt; for sponsoring the location of this event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;LetsBoot.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;If you want to scale your software or systems engineering career, make sure to check out one of their courses!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;next-meetup&quot;&gt;Next meetup&lt;&#x2F;h1&gt;
+&lt;p&gt;If you like to attend future meetup meetings you can find the them &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;See you next time! :)&lt;&#x2F;p&gt;
+&lt;p&gt;Roland, Silen and Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Workshop #2</title>
+        <published>2024-04-27T00:00:00+00:00</published>
+        <updated>2024-04-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-2/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-2/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-2/">&lt;h1 id=&quot;topic&quot;&gt;Topic&lt;&#x2F;h1&gt;
+&lt;p&gt;Our second Rust workshop in Basel. This time it&#x27;s been about fullstack Rust.
+Writing your backend, and also your frontend in the rust programming language.
+For this workshop we used &lt;a href=&quot;https:&#x2F;&#x2F;dioxuslabs.com&#x2F;&quot;&gt;dioxus&lt;&#x2F;a&gt;, where you can write your front end completely rust.
+It also offers UI native for desktop and even for mobile apps.&lt;&#x2F;p&gt;
+&lt;p&gt;This time we built a fullstack web application with our attendees, where you can create, delete
+shopping lists, as well as items in these shopping lists.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;&#x2F;h1&gt;
+&lt;p&gt;The guidebook from the past workshop you can find &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;fullstack-rust-workshop&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;. If you want to have the solutions for the guidebook from above - have a look &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;workshop-2&quot;&gt;here&lt;&#x2F;a&gt;.
+The directories in the solution repository correspond to the chapter in the book (just in case you get stuck).&lt;&#x2F;p&gt;
+&lt;p&gt;If you do not feel like recoding it yourself, you can also clone the finished Github repository &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-dioxus-shopping-list&quot;&gt;here&lt;&#x2F;a&gt;. Note: This repo was created beforehand (As we learned dioxus there first hand ;&amp;gt;). So the last chapter in the solution differes from this solution and also might not be the most idiomatic rust code.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-meetup-itself&quot;&gt;The meetup itself&lt;&#x2F;h1&gt;
+&lt;p&gt;We had like 22 attendees in the Markthalle in Basel. Atmosphere was great - food was sponsored be Endress+Hauser - and the attendees learned something new. In total a successful meetup!&lt;&#x2F;p&gt;
+&lt;p&gt;Below some impressions in images:&lt;&#x2F;p&gt;
+&lt;div style=&quot;display:flex; justify-content:center&quot;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto2.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto1.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto3.jpg&quot; width=&quot;30%&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Feedback from our community (to improve for next time):&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;feedback.jpg&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h1&gt;
+&lt;p&gt;We are very grateful for Endress+Hauser Digital Solutions for sponsoring this event. With their help we could sponsor the location
+as well as the beverage (lunch+drinks) during the event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;EndressLogo.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;If you are looking for a job, we can recommend Endress+Hauser as a great place to work! Have a look at their &lt;a href=&quot;https:&#x2F;&#x2F;www.us.endress.com&#x2F;en&#x2F;career&#x2F;job-opportunities&quot;&gt;job offers&lt;&#x2F;a&gt;. They might soon also have some Rust jobs ;). Stay tuned!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;next-meetup&quot;&gt;Next meetup&lt;&#x2F;h1&gt;
+&lt;p&gt;If you like to attend future meetup meetings you can find the them &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;See you next time! :)&lt;&#x2F;p&gt;
+&lt;p&gt;Roland &amp;amp; Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Workshop #1</title>
+        <published>2023-07-01T00:00:00+00:00</published>
+        <updated>2023-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-1/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-1/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-1/">&lt;p&gt;Our first Rust workshop in Basel. The workshop itself was split into two parts. 
+Part 1 was about some Rust basics, so participants can read and also write basic Rust programs.
+Part 2, in the afternoon, participants could solve a small coding challenge: To create a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Create,_read,_update_and_delete&quot;&gt;CRUD&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;REST&quot;&gt;Rest&lt;&#x2F;a&gt; API simulation a Pokedex, where you can manage your gathered information about your Pokemon discoveries.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-1&quot;&gt;Part 1&lt;&#x2F;h2&gt;
+&lt;p&gt;The first part of the workshop was about basic Rust topics, including:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tooling&lt;&#x2F;li&gt;
+&lt;li&gt;Function &amp;amp; structs&lt;&#x2F;li&gt;
+&lt;li&gt;Branching &amp;amp; Looping&lt;&#x2F;li&gt;
+&lt;li&gt;Traits&lt;&#x2F;li&gt;
+&lt;li&gt;Memory &amp;amp; Lifetimes&lt;&#x2F;li&gt;
+&lt;li&gt;Enums, matches &amp;amp; errors&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;If you are keen to look into details, we recommend you have a look at the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;rust-meetup-8&#x2F;blob&#x2F;main&#x2F;slides.md&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;part-2&quot;&gt;Part 2&lt;&#x2F;h2&gt;
+&lt;p&gt;The second part of the workshop was about creating a small REST API.
+Therefore we created a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-pokedex-starter&quot;&gt;code skeleton&lt;&#x2F;a&gt;, that participants could use.&lt;&#x2F;p&gt;
+&lt;p&gt;Goal of the workshop would have been:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Create a webserver, offering create, read, update and delete endpoints for Pokémon:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;To create Pokémon: &lt;code&gt;POST &#x2F;pokemon&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To read Pokémon: &lt;code&gt;GET &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To update an existing Pokémon: &lt;code&gt;PATCH &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;To delete a Pokémon: &lt;code&gt;DELELTE &#x2F;pokemon&#x2F;{id}&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;During the workshop participants got help from us, so they could work into the goal&#x27;s direction. &lt;&#x2F;p&gt;
+&lt;p&gt;Most of the participants did not finish the challenge, as the challenge itself seemed too much of a scope. Nethertheless we provided a possible &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-pokedex&quot;&gt;solution&lt;&#x2F;a&gt; for the challenge.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;As this was our first workshop, we also gained a lot of knowledge. First of all - do not expect the participants to know what you already know. Doing Rust for several years vs. someone who just started with their first typed langauge. Obviously that is out of scope.
+Some participants also wished the second part would have been more guided. I.e. we show them step by step on how to build such a Rest backend in Rust.&lt;&#x2F;p&gt;
+&lt;p&gt;So for our next workshops we will consider those two points.
+But in general people liked the workshop and also learned a lot - especially the first part with the basics was considered very good.&lt;&#x2F;p&gt;
+&lt;p&gt;So what else to say? I guess we see us in the next workshop.&lt;&#x2F;p&gt;
+&lt;p&gt;Best
+Roland &amp;amp; Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
