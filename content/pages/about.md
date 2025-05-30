@@ -8,7 +8,7 @@ authors = ["Yasin Guenduez"]
 
 ## About Us
 
-We are the Rust-Basel, a Swiss non-profit organization dedicated to bringing together Rust enthusiasts in and around the Basel area. Our community has evolved over time, and we're proud to have grown from a group of passionate individuals to a small organization.
+We are Rust-Basel, a Swiss non-profit organization dedicated to bringing together Rust enthusiasts in and around the Basel area. Our community has evolved over time, and we're proud to have grown from a group of passionate individuals to a small organization.
 
 ## Our Journey
 
@@ -24,8 +24,8 @@ Rust - of course.
 You will find all resources from our [meetups](https://www.meetup.com/de-DE/rust-basel/) and workshops here. Each post resembles either a meetup or a workshop about a specific rust topic.
 
 ## Learning by doing
-Jokes aside. Most of our workshops or meetups are topics we find interesting and worth sharing.
-From time to time we also organize workshops for people that are interested in learning rust, or rust specific topics. Stay tuned!
+Most of our workshops or meetups are topics we find interesting and worth sharing.
+From time to time we also organize full-day workshops for people that are interested in learning rust, or rust specific topics. Stay tuned!
 
 If you also want to share a rust specific topic - contact us and we will find a way to share your topic with other fellow Rustaceans.
 
