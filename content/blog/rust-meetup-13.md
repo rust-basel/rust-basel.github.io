@@ -5,7 +5,7 @@ description = "Talks, Snacks, and Community Vibes, and writing your own command-
 authors = ["Jan Cristina"]
 
 [taxonomies]
-tags = ["Talks", "Command line", "Interoperability"]
+tags = ["Talks", "Programming languages", "Workflow", "Orchestration", "Webdev", "Authentication"]
 +++
 
 # Rust Basel Meetup #11 –
@@ -18,7 +18,7 @@ Our 13th on-site meetup, generously sponsored and hosted by [letsboot](letsboot.
 - **Jônatas Oliveira** One login to rule them all
 
 With the fall air getting cooler and the nights getting longer we had another couple of interesting talks. First Jusong Yu discussed how Rust enabled his team to build
-a domain specific language for job orchestration: [slides](https://github.com/unkcpz/slides-basel-rust-meetup-2025)
+a domain specific language for workflow orchestration: [slides](https://github.com/unkcpz/slides-basel-rust-meetup-2025)
 
 Then Jônatas Oliveira presented [keyrunes](https://github.com/jonatasoli/keyrunes) a modern, attribute-aware access control engine written in Rust, offering a lightweight
 alternative to keycloak.

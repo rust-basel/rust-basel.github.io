@@ -5,7 +5,7 @@ description = "Rust Embedded"
 authors = ["Jan Cristina"]
 
 [taxonomies]
-tags = ["Talks", "Command line", "Interoperability"]
+tags = ["Workshops", "Embedded"]
 +++
 
 # Rust Basel Meetup #11 –
