@@ -3,14 +3,15 @@ date = 2025-03-18
 title = "Rust Meetup #10"
 description = "Talks, Snacks, and Community Vibes, discussions around Rust adoption in the industry"
 authors = ["Roland Brand"]
-
 [taxonomies]
 tags = ["Talks", "Ecosystem", "Industry", "Learning Curve"]
+[extra]
+image = "immutables.jpeg"
 +++
 
 # Rust Basel Meetup #10 – Talks, Snacks, and Community Vibes
 
-On March 18th, we hit a nice round number: **Rust Basel Meetup #10** 🎉  
+On March 18th, we hit a nice round number: **Rust Basel Meetup #10** 🎉
 Thanks to our generous hosts at **MDPI**, we gathered once again at Grosspeteranlage 5 to share knowledge, laughter, and stories from the Rust trenches.
 
 This time, we were treated to **two insightful talks** from community members—and the promise of a third, TBD-style!

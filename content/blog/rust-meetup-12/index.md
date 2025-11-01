@@ -6,6 +6,9 @@ authors = ["Jan Cristina"]
 
 [taxonomies]
 tags = ["Talks", "Command line", "Interoperability"]
+
+[extra]
+image = "panic.jpeg"
 +++
 
 # Rust Basel Meetup #11 –

@@ -6,6 +6,9 @@ authors = ["Jan Cristina"]
 
 [taxonomies]
 tags = ["Talks", "Programming languages", "Workflow", "Orchestration", "Webdev", "Authentication"]
+
+[extra]
+image = "turbo-fish.jpeg"
 +++
 
 # Rust Basel Meetup #11 –
