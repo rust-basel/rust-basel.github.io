@@ -6,6 +6,9 @@ authors = ["Jan Cristina"]
 
 [taxonomies]
 tags = ["Workshops", "Embedded"]
+
+[extra]
+image = "embedded.jpeg"
 +++
 
 # Rust Basel Meetup #11 –

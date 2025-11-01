@@ -6,6 +6,9 @@ authors = ["Jan Cristina"]
 
 [taxonomies]
 tags = ["Talks", "Ecosystem", "Interoperability"]
+
+[extra]
+image = "ferris-day-off.png"
 +++
 
 # Rust Basel Meetup #11 –
