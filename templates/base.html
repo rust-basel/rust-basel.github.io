@@ -24,6 +24,9 @@
   {% if config.extra.favicon_svg %}
     <link rel="icon" href="{{ config.extra.favicon_svg }}" />
   {% endif %}
+  {% if config.extra.favicon_png %}
+    <link rel="icon" type="image/png" href="{{ config.extra.favicon_png }}" />
+  {% endif %}
 
   {% if config.generate_feed %}
     <link rel="alternate" type="application/atom+xml" title="Atom Feed for {{ config.base_url | safe }}" href="/atom.xml" />
