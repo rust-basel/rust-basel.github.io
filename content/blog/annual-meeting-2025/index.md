@@ -7,8 +7,6 @@ authors = ["Jan Cristina"]
 [taxonomies]
 tags = ["Administration"]
 
-[extra]
-image = "turbo-fish.jpeg"
 +++
 
 # Rust Basel Association Annual Meeting
@@ -30,7 +28,7 @@ notified 30 days before the meeting) but are happy to accept applications afterw
   - Appoint new board of the association
   - Approve changes to the statutes
 
-More details will appear on our discord
+More details will appear closer to the event on our discord.
 
 ### ➕ Stay in Touch
 
