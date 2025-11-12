@@ -1,5 +1,5 @@
 +++
-date = 2025-12-02
+date = 2025-12-04
 title = "Rust Basel Association Annual Meeting 2025
 description = "The Rust Basel Association will have it's annual members meeting for 2025"
 authors = ["Jan Cristina"]
@@ -20,8 +20,10 @@ responsibilities. This meeting is open for all to attend, but only registered me
 to vote. We are not accepting membership applications prior to the meeting (as members need to be
 notified 30 days before the meeting) but are happy to accept applications afterwards.
 
-- **Location:** Markthalle Basel
-- **Agenda:**
+- **Date and Time:** Thursday, 04.12.2025 19:00
+
+* **Location:** Markthalle Basel
+* **Agenda:**
   - Approval of minutes of last general meeting (founding meeting)
   - Review previous year's report and budget
   - Approve next years budget
