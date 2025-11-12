@@ -1,6 +1,6 @@
 +++
 date = 2025-12-04
-title = "Rust Basel Association Annual Meeting 2025
+title = "Rust Basel Association Annual Meeting 2025"
 description = "The Rust Basel Association will have it's annual members meeting for 2025"
 authors = ["Jan Cristina"]
 
