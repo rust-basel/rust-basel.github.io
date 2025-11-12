@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Command line</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/command-line/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-02T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/command-line/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #12</title>
+        <published>2025-07-02T00:00:00+00:00</published>
+        <updated>2025-07-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-12/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-12/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-12/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 12th on-site meetup, generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;www.endress.com&#x2F;de&#x2F;endress-hauser-gruppe&#x2F;kompetenzen-der-product-centers&#x2F;endress-hauser-digital-solutions&quot;&gt;E+H Digital Solutions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talk&quot;&gt;🎤 The Talk&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Silen Locatelli&lt;&#x2F;strong&gt; Your first Rust CLI project&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;We had a diverse group of attendants on a very hot day. Discussions included project architecture, dependency bloat, and even a bit about the Zig programming language and Tigerbeetle,
+a double entry financial transaction database. After the talk we enjoyed Pizza from &lt;a href=&quot;https:&#x2F;&#x2F;www.vito.ch&#x2F;&quot;&gt;Vito&lt;&#x2F;a&gt;, and the beautiful weather by the Rhein&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;We were at a new venue this time in &lt;a href=&quot;https:&#x2F;&#x2F;www.khaus.ch&#x2F;&quot;&gt;khaus&lt;&#x2F;a&gt; on a very warm day&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>

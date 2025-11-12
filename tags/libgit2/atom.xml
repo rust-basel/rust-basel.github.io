@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - libgit2</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/libgit2/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-30T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/libgit2/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #9</title>
+        <published>2024-07-30T00:00:00+00:00</published>
+        <updated>2024-07-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Roland Brand
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-9/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-9/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-9/">&lt;h1 id=&quot;engaged-rustaceans-even-during-holiday-time&quot;&gt;Engaged rustaceans even during holiday time&lt;&#x2F;h1&gt;
+&lt;p&gt;We enjoyed interesting talks and even more interesting discussions thereafter at the 9th Rust Basel meetup on Tuesday, July 30th.
+The event sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;letsboot.ch&quot;&gt;letsboot&lt;&#x2F;a&gt; featured three talks that delved into diverse aspects of Rust development.&lt;&#x2F;p&gt;
+&lt;p&gt;Even though it was well over 30 degrees outside and everybody in Basel seems to be on holiday, 18 rustaceans found their way
+to the lofty office building behind the famous hammering man.&lt;&#x2F;p&gt;
+&lt;p&gt;Here&#x27;s a small recap of the event:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hurl&quot;&gt;Hurl&lt;&#x2F;h2&gt;
+&lt;p&gt;Silen Locatelli delved into the power of API testing with Hurl, which can benefit a wide range of projects, even outside the Rust world.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SilenLoc&#x2F;baselOne2024&quot;&gt;&amp;gt; Silens talk and repo on github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tauri&quot;&gt;Tauri&lt;&#x2F;h2&gt;
+&lt;p&gt;Oliver Hässler introduced Tauri, a Rust framework for crafting elegant user interfaces by leveraging web technologies.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;libgit2&quot;&gt;libgit2&lt;&#x2F;h2&gt;
+&lt;p&gt;Roland Brand showed a devtool built with Rust and libgit2 for modifying source code file headers.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bar9&#x2F;fhf&quot;&gt;&amp;gt; Rolands repo on github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Passionate Rust developers used the opportunity to connect, share experiences, and learn from each other, and chat over a beer and pizza.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;missed-the-meetup-stay-connected&quot;&gt;Missed the Meetup? Stay Connected!&lt;&#x2F;h2&gt;
+&lt;p&gt;Don&#x27;t worry if you couldn&#x27;t join us this time. 
+Check out the &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;Rust Basel Meetup page&lt;&#x2F;a&gt;
+or our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;29fSuFS5&quot;&gt;Discord&lt;&#x2F;a&gt; to stay informed about upcoming events and connect with the local Rust community.
+Keep on Rusting!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;a-few-impressions-from-the-meetup&quot;&gt;A few impressions from the meetup:&lt;&#x2F;h2&gt;
+&lt;p&gt;Silen Locatelli introducing us to hurl
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;silen_locatellis_talk.jpg&quot; alt=&quot;Silen Locatelli talking about hurl&quot; &#x2F;&gt;
+Yasing Gündüz opening the meetup
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;yasin_guenduez_intro.jpg&quot; alt=&quot;Yasin Intro&quot; &#x2F;&gt;
+Apero
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;apero.jpg&quot; alt=&quot;Apero&quot; &#x2F;&gt;
+Great view from the location at Aeschenplatz
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;view.jpg&quot; alt=&quot;Great view from the location&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

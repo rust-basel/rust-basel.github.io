@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Talks</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/talks/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-14T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/talks/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #13</title>
+        <published>2025-10-14T00:00:00+00:00</published>
+        <updated>2025-10-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-13/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-13/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-13/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 13th on-site meetup, generously sponsored and hosted by &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-13&#x2F;letsboot.ch&quot;&gt;letsboot&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talks&quot;&gt;🎤 The Talks&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jusong Yu&lt;&#x2F;strong&gt; How Rust enables you to create a domain specific language&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Jônatas Oliveira&lt;&#x2F;strong&gt; One login to rule them all&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;With the fall air getting cooler and the nights getting longer we had another couple of interesting talks. First Jusong Yu discussed how Rust enabled his team to build
+a domain specific language for workflow orchestration: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;unkcpz&#x2F;slides-basel-rust-meetup-2025&quot;&gt;slides&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Then Jônatas Oliveira presented &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jonatasoli&#x2F;keyrunes&quot;&gt;keyrunes&lt;&#x2F;a&gt; a modern, attribute-aware access control engine written in Rust, offering a lightweight
+alternative to keycloak.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;We had some new joiners again, and lots of discussion, with some snacks as well&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #12</title>
+        <published>2025-07-02T00:00:00+00:00</published>
+        <updated>2025-07-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-12/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-12/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-12/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 12th on-site meetup, generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;www.endress.com&#x2F;de&#x2F;endress-hauser-gruppe&#x2F;kompetenzen-der-product-centers&#x2F;endress-hauser-digital-solutions&quot;&gt;E+H Digital Solutions&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talk&quot;&gt;🎤 The Talk&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Silen Locatelli&lt;&#x2F;strong&gt; Your first Rust CLI project&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;We had a diverse group of attendants on a very hot day. Discussions included project architecture, dependency bloat, and even a bit about the Zig programming language and Tigerbeetle,
+a double entry financial transaction database. After the talk we enjoyed Pizza from &lt;a href=&quot;https:&#x2F;&#x2F;www.vito.ch&#x2F;&quot;&gt;Vito&lt;&#x2F;a&gt;, and the beautiful weather by the Rhein&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;We were at a new venue this time in &lt;a href=&quot;https:&#x2F;&#x2F;www.khaus.ch&#x2F;&quot;&gt;khaus&lt;&#x2F;a&gt; on a very warm day&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #11</title>
+        <published>2025-05-27T00:00:00+00:00</published>
+        <updated>2025-05-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-11/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-11/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-11/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 11th on-site meetup, generously sponsored by [letsboot.ch] and by &lt;a href=&quot;https:&#x2F;&#x2F;www.endress.com&#x2F;de&#x2F;endress-hauser-gruppe&#x2F;kompetenzen-der-product-centers&#x2F;endress-hauser-digital-solutions&quot;&gt;E+H Digital Solutions&lt;&#x2F;a&gt;.
+was held at the Letsboot offices&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talk&quot;&gt;🎤 The Talk&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jan Cristina&lt;&#x2F;strong&gt; Diplomat: a tool for generating polyglot bindings to Rust code:&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jcrist1&#x2F;diplomat-talk&#x2F;blob&#x2F;main&#x2F;main.pdf&quot;&gt;slides&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;There was a lot of discussion about different ways of getting rust code into non-rust code-bases. Definitely a more advanced topic, but there was a lot of interest as rust makes it easier to connect to other language ecosystems.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;The meetup was hosted at Letsboot, in Aeschenplatz&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #10</title>
+        <published>2025-03-18T00:00:00+00:00</published>
+        <updated>2025-03-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Roland Brand
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-10/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-10/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-10/">&lt;h1 id=&quot;rust-basel-meetup-10-talks-snacks-and-community-vibes&quot;&gt;Rust Basel Meetup #10 – Talks, Snacks, and Community Vibes&lt;&#x2F;h1&gt;
+&lt;p&gt;On March 18th, we hit a nice round number: &lt;strong&gt;Rust Basel Meetup #10&lt;&#x2F;strong&gt; 🎉
+Thanks to our generous hosts at &lt;strong&gt;MDPI&lt;&#x2F;strong&gt;, we gathered once again at Grosspeteranlage 5 to share knowledge, laughter, and stories from the Rust trenches.&lt;&#x2F;p&gt;
+&lt;p&gt;This time, we were treated to &lt;strong&gt;two insightful talks&lt;&#x2F;strong&gt; from community members—and the promise of a third, TBD-style!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talks&quot;&gt;🎤 The Talks&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Yasin Gündüz&lt;&#x2F;strong&gt; opened the evening with a philosophical yet practical dive into &lt;em&gt;&amp;quot;How to inject Rust into people&#x27;s hearts, minds, and production code.&amp;quot;&lt;&#x2F;em&gt; His journey touched on more than just syntax—it was about winning hearts (and org charts) with Rust&#x27;s strengths.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Michael Kefeder&lt;&#x2F;strong&gt; followed with &lt;em&gt;&amp;quot;Anecdotal evidence that Rust is not hard to learn or slowing down development.&amp;quot;&lt;&#x2F;em&gt; What started as a personal take on learning Rust quickly turned into a broader discussion about the language’s ecosystem. From package management to dev tooling to onboarding juniors, this talk lit a spark that carried into many conversations throughout the evening.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The open slot&lt;&#x2F;strong&gt; remained just that—open. If you’ve got a Rust story, experiment, or lesson learned, we’d love to hear it at a future meetup. Ping us on Discord!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;As always, the conversations flowed long after the talks ended. With drinks in hand and pizza on plates (thanks again to &lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; for sponsoring the food 🙌), we huddled around laptops, shared projects, debated error handling strategies, and dove into Rust&#x27;s evolving ecosystem.&lt;&#x2F;p&gt;
+&lt;p&gt;We also welcomed a few new faces—some folks brand-new to Rust, and others already deep into it. Whether you&#x27;re writing your first &lt;code&gt;main()&lt;&#x2F;code&gt; or refactoring a codebase in safe concurrency, &lt;strong&gt;Rust Basel is for everyone.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;The meetup was hosted at MDPI, just a 10-minute walk from Basel SBB. Pro tip for next time: the elevator is small but mighty. And don&#x27;t forget to ring at &lt;strong&gt;MDPI&lt;&#x2F;strong&gt; on the doorbell screen.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MDPI&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;li&gt;Everyone who attended – for being part of this growing Rust community in Basel!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Looking forward to seeing you at &lt;strong&gt;Rust Basel #11&lt;&#x2F;strong&gt; 👋&lt;&#x2F;p&gt;
+&lt;p&gt;Till then: &lt;code&gt;cargo install rust_basel_energy&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #9</title>
+        <published>2024-07-30T00:00:00+00:00</published>
+        <updated>2024-07-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Roland Brand
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-9/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-9/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-9/">&lt;h1 id=&quot;engaged-rustaceans-even-during-holiday-time&quot;&gt;Engaged rustaceans even during holiday time&lt;&#x2F;h1&gt;
+&lt;p&gt;We enjoyed interesting talks and even more interesting discussions thereafter at the 9th Rust Basel meetup on Tuesday, July 30th.
+The event sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;letsboot.ch&quot;&gt;letsboot&lt;&#x2F;a&gt; featured three talks that delved into diverse aspects of Rust development.&lt;&#x2F;p&gt;
+&lt;p&gt;Even though it was well over 30 degrees outside and everybody in Basel seems to be on holiday, 18 rustaceans found their way
+to the lofty office building behind the famous hammering man.&lt;&#x2F;p&gt;
+&lt;p&gt;Here&#x27;s a small recap of the event:&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hurl&quot;&gt;Hurl&lt;&#x2F;h2&gt;
+&lt;p&gt;Silen Locatelli delved into the power of API testing with Hurl, which can benefit a wide range of projects, even outside the Rust world.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;SilenLoc&#x2F;baselOne2024&quot;&gt;&amp;gt; Silens talk and repo on github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tauri&quot;&gt;Tauri&lt;&#x2F;h2&gt;
+&lt;p&gt;Oliver Hässler introduced Tauri, a Rust framework for crafting elegant user interfaces by leveraging web technologies.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;libgit2&quot;&gt;libgit2&lt;&#x2F;h2&gt;
+&lt;p&gt;Roland Brand showed a devtool built with Rust and libgit2 for modifying source code file headers.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bar9&#x2F;fhf&quot;&gt;&amp;gt; Rolands repo on github&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Passionate Rust developers used the opportunity to connect, share experiences, and learn from each other, and chat over a beer and pizza.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;missed-the-meetup-stay-connected&quot;&gt;Missed the Meetup? Stay Connected!&lt;&#x2F;h2&gt;
+&lt;p&gt;Don&#x27;t worry if you couldn&#x27;t join us this time. 
+Check out the &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;Rust Basel Meetup page&lt;&#x2F;a&gt;
+or our &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;29fSuFS5&quot;&gt;Discord&lt;&#x2F;a&gt; to stay informed about upcoming events and connect with the local Rust community.
+Keep on Rusting!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;a-few-impressions-from-the-meetup&quot;&gt;A few impressions from the meetup:&lt;&#x2F;h2&gt;
+&lt;p&gt;Silen Locatelli introducing us to hurl
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;silen_locatellis_talk.jpg&quot; alt=&quot;Silen Locatelli talking about hurl&quot; &#x2F;&gt;
+Yasing Gündüz opening the meetup
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;yasin_guenduez_intro.jpg&quot; alt=&quot;Yasin Intro&quot; &#x2F;&gt;
+Apero
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;apero.jpg&quot; alt=&quot;Apero&quot; &#x2F;&gt;
+Great view from the location at Aeschenplatz
+&lt;img src=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-9&#x2F;.&#x2F;view.jpg&quot; alt=&quot;Great view from the location&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #8</title>
+        <published>2023-12-14T00:00:00+00:00</published>
+        <updated>2023-12-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Guenduez
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-8/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-8/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-8/">&lt;p&gt;This time we had a remote session with two crate maintainers: Alan Somers from the mockall crate and Tomas Zevanovic from the proptest-rs crate.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;asomers&#x2F;mockall&quot;&gt;Mockall&lt;&#x2F;a&gt;: Alan Somers&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;proptest-rs&#x2F;proptest&quot;&gt;Proptest-rs&lt;&#x2F;a&gt;: Tomas Zevanovic &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;mockall&quot;&gt;Mockall&lt;&#x2F;h2&gt;
+&lt;p&gt;Alan Somers presented his crate mockall, where you can easily write mock objects. &lt;&#x2F;p&gt;
+&lt;p&gt;Mocks are powerful, as they can implement the same interfaces like your real objects. Their behaviour is fully controlled by the test code - making upper layers of your dependency chain easily testable.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are more interested in his talk, have a look at the &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;11wtjU8RGr6PQTft6V8jIn2dP7Cc1O4Kx&#x2F;view?usp=drive_link&quot;&gt;video session&lt;&#x2F;a&gt; we recorded.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;proptest-rs&quot;&gt;Proptest-rs&lt;&#x2F;h2&gt;
+&lt;p&gt;Proptest-rs is a property testing framework. With this you can check that certain properties of the output of your code is fulfilled for every possible input. Tomas Zevanovic showed us some examples on how you can use proptest-rs to test your code.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to have a look into his talk, here is his &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1aTICaGEiaNLHXA-3PkMVgsRpMMnRRPdW&#x2F;view?usp=drive_link&quot;&gt;recording&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #7</title>
+        <published>2023-03-28T00:00:00+00:00</published>
+        <updated>2023-03-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Guenduez
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-7/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-7/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-7/">&lt;p&gt;This time we had three interesting talks: from Attila Bujaki, Roland Brand and Yasin Gündüz.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cloud Native Event Streaming (Attila Bujaki)&lt;&#x2F;li&gt;
+&lt;li&gt;IDE-level coding in Web Apps (Roland Brand)&lt;&#x2F;li&gt;
+&lt;li&gt;Foreign Function Interfaces (Yasin Gündüz)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;cloud-native-event-streaming&quot;&gt;Cloud Native Event Streaming&lt;&#x2F;h2&gt;
+&lt;p&gt;Attila Bujaki showed us how you can leverage &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;txpipe&#x2F;oura&quot;&gt;Oura&lt;&#x2F;a&gt; to create a realtime event-stream from the Cardano Blockchain.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested, have a look at his &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1upqLGw3vnqFiuWXtfcpB9q04s0H7-TL_&#x2F;view&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ide-level-coding-in-web-apps&quot;&gt;IDE-level coding in Web Apps&lt;&#x2F;h2&gt;
+&lt;p&gt;Interested in building a web based IDE? Roland Brand showed us a live prototyp which does exactly this. Leveraging the language server protocol (lsp), served with websockets with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tokio-rs&#x2F;axum&quot;&gt;axum&lt;&#x2F;a&gt; you got autocompletion in his web editor.&lt;&#x2F;p&gt;
+&lt;p&gt;You can also have a sneak peak into his &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1BdkUcrBshtd4XkH_NpWh_a0vXNGpGdyJ&#x2F;edit#slide=id.p1&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;foreign-function-interfaces&quot;&gt;Foreign Function Interfaces&lt;&#x2F;h2&gt;
+&lt;p&gt;Sadly most of the project you face today in the industry are not greenfield projects, where you can start from scratch. In brownfield projects it&#x27;s more interesting how you can integrate e.g. a rust written library into already existing projects. Yasin showed us, how you can easily write a rust library, that is consumed in a C++ executable with &lt;a href=&quot;https:&#x2F;&#x2F;cxx.rs&quot;&gt;CXX&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;corrosion-rs&#x2F;corrosion&quot;&gt;Corrosion&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested, have a look into:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1h-85FV6myH_K9KIWYPGGgiB8Izp7zx5RUpfd3k2_0Ys&#x2F;edit#slide=id.g21665984530_0_0&quot;&gt;Slides&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yguenduez&#x2F;cxx-corrosion-ffi&quot;&gt;Example Project&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Ecosystem</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/ecosystem/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-27T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/ecosystem/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #11</title>
+        <published>2025-05-27T00:00:00+00:00</published>
+        <updated>2025-05-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-11/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-11/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-11/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 11th on-site meetup, generously sponsored by [letsboot.ch] and by &lt;a href=&quot;https:&#x2F;&#x2F;www.endress.com&#x2F;de&#x2F;endress-hauser-gruppe&#x2F;kompetenzen-der-product-centers&#x2F;endress-hauser-digital-solutions&quot;&gt;E+H Digital Solutions&lt;&#x2F;a&gt;.
+was held at the Letsboot offices&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talk&quot;&gt;🎤 The Talk&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jan Cristina&lt;&#x2F;strong&gt; Diplomat: a tool for generating polyglot bindings to Rust code:&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jcrist1&#x2F;diplomat-talk&#x2F;blob&#x2F;main&#x2F;main.pdf&quot;&gt;slides&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;There was a lot of discussion about different ways of getting rust code into non-rust code-bases. Definitely a more advanced topic, but there was a lot of interest as rust makes it easier to connect to other language ecosystems.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;The meetup was hosted at Letsboot, in Aeschenplatz&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust Meetup #10</title>
+        <published>2025-03-18T00:00:00+00:00</published>
+        <updated>2025-03-18T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Roland Brand
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-10/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-10/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-10/">&lt;h1 id=&quot;rust-basel-meetup-10-talks-snacks-and-community-vibes&quot;&gt;Rust Basel Meetup #10 – Talks, Snacks, and Community Vibes&lt;&#x2F;h1&gt;
+&lt;p&gt;On March 18th, we hit a nice round number: &lt;strong&gt;Rust Basel Meetup #10&lt;&#x2F;strong&gt; 🎉
+Thanks to our generous hosts at &lt;strong&gt;MDPI&lt;&#x2F;strong&gt;, we gathered once again at Grosspeteranlage 5 to share knowledge, laughter, and stories from the Rust trenches.&lt;&#x2F;p&gt;
+&lt;p&gt;This time, we were treated to &lt;strong&gt;two insightful talks&lt;&#x2F;strong&gt; from community members—and the promise of a third, TBD-style!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talks&quot;&gt;🎤 The Talks&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Yasin Gündüz&lt;&#x2F;strong&gt; opened the evening with a philosophical yet practical dive into &lt;em&gt;&amp;quot;How to inject Rust into people&#x27;s hearts, minds, and production code.&amp;quot;&lt;&#x2F;em&gt; His journey touched on more than just syntax—it was about winning hearts (and org charts) with Rust&#x27;s strengths.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Michael Kefeder&lt;&#x2F;strong&gt; followed with &lt;em&gt;&amp;quot;Anecdotal evidence that Rust is not hard to learn or slowing down development.&amp;quot;&lt;&#x2F;em&gt; What started as a personal take on learning Rust quickly turned into a broader discussion about the language’s ecosystem. From package management to dev tooling to onboarding juniors, this talk lit a spark that carried into many conversations throughout the evening.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The open slot&lt;&#x2F;strong&gt; remained just that—open. If you’ve got a Rust story, experiment, or lesson learned, we’d love to hear it at a future meetup. Ping us on Discord!&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;As always, the conversations flowed long after the talks ended. With drinks in hand and pizza on plates (thanks again to &lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; for sponsoring the food 🙌), we huddled around laptops, shared projects, debated error handling strategies, and dove into Rust&#x27;s evolving ecosystem.&lt;&#x2F;p&gt;
+&lt;p&gt;We also welcomed a few new faces—some folks brand-new to Rust, and others already deep into it. Whether you&#x27;re writing your first &lt;code&gt;main()&lt;&#x2F;code&gt; or refactoring a codebase in safe concurrency, &lt;strong&gt;Rust Basel is for everyone.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;map-logistics-recap&quot;&gt;🗺️ Logistics Recap&lt;&#x2F;h3&gt;
+&lt;p&gt;The meetup was hosted at MDPI, just a 10-minute walk from Basel SBB. Pro tip for next time: the elevator is small but mighty. And don&#x27;t forget to ring at &lt;strong&gt;MDPI&lt;&#x2F;strong&gt; on the doorbell screen.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MDPI&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;E+H Digital Solutions&lt;&#x2F;strong&gt; – for keeping us fed.&lt;&#x2F;li&gt;
+&lt;li&gt;Everyone who attended – for being part of this growing Rust community in Basel!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Looking forward to seeing you at &lt;strong&gt;Rust Basel #11&lt;&#x2F;strong&gt; 👋&lt;&#x2F;p&gt;
+&lt;p&gt;Till then: &lt;code&gt;cargo install rust_basel_energy&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
