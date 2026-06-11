@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Administration</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/administration/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-12-04T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/administration/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Basel Association Annual Meeting 2025</title>
+        <published>2025-12-04T00:00:00+00:00</published>
+        <updated>2025-12-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/annual-meeting-2025/"/>
+        <id>https://rust-basel.ch/blog/annual-meeting-2025/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/annual-meeting-2025/">&lt;h1 id=&quot;rust-basel-association-annual-meeting&quot;&gt;Rust Basel Association Annual Meeting&lt;&#x2F;h1&gt;
+&lt;p&gt;On April 8th 2025 the Rust Basel Association had its founding meeting as a formal association.
+This was done to enable the association to open a bank account, collect sponsorship and use those
+funds to organise talks, workshops and events.&lt;&#x2F;p&gt;
+&lt;p&gt;As a formal association we are required to hold annual meetings to handle certain administrative
+responsibilities. This meeting is open for all to attend, but only registered members will be able
+to vote. We are not accepting membership applications prior to the meeting (as members need to be
+notified 30 days before the meeting) but are happy to accept applications afterwards.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date and Time:&lt;&#x2F;strong&gt; Thursday, 04.12.2025 19:00&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;&#x2F;strong&gt; Markthalle Basel&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Agenda:&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Approval of minutes of last general meeting (founding meeting)&lt;&#x2F;li&gt;
+&lt;li&gt;Review previous year&#x27;s report and budget&lt;&#x2F;li&gt;
+&lt;li&gt;Approve next years budget&lt;&#x2F;li&gt;
+&lt;li&gt;Appoint new board of the association&lt;&#x2F;li&gt;
+&lt;li&gt;Approve changes to the statutes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;More details will appear closer to the event on our discord.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>

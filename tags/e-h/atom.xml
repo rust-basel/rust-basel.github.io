@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - E+H</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/e-h/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-23T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/e-h/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Workshop #3</title>
+        <published>2024-11-23T00:00:00+00:00</published>
+        <updated>2024-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Silen Locatelli
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Roland Brandh
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-3/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-3/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-3/">&lt;h1 id=&quot;topic&quot;&gt;Topic&lt;&#x2F;h1&gt;
+&lt;p&gt;Our third Rust workshop in Basel. This time we tackled creating a web application with Rust and using HTMX.&lt;&#x2F;p&gt;
+&lt;p&gt;As there exists something like a javascript &amp;quot;fatigue&amp;quot; with ever new emerging JavaScript Frameworks,
+the web world seems to go back to server side rendering, which reduces the amount of complexity.
+As until now, we had to swap the whole page, when we rendered server side. HTMX fixes this by bringing
+reactivity in browser, to only fetch HTML directly from the server endpoints instead of JSON and exchange this HTML snippet in a
+defined place in the DOM.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;&#x2F;h1&gt;
+&lt;p&gt;The guidebook from this workshop you can find &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;https:&#x2F;&#x2F;rust-basel.ch&#x2F;htmx-workshop-meetup-10&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.
+If you also want to execute the code snippets we provided, you can also clone&#x2F;fork the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;htmx-workshop-meetup-10&quot;&gt;repository&lt;&#x2F;a&gt; direclty, as everything is
+in the same place.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;outline-of-the-workshop&quot;&gt;Outline of the Workshop&lt;&#x2F;h1&gt;
+&lt;p&gt;First we had a lecture style morning, where Silen, Yasin and Roland talked about the needed components (server, server side rendering, htmx) for the afternoon,
+where people were on their own hacking their own htmx application.&lt;&#x2F;p&gt;
+&lt;p&gt;Yasin talked about Axum, how you write endpoints in the webserver framework &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tokio-rs&#x2F;axum&quot;&gt;axum&lt;&#x2F;a&gt;. Also the participants
+learned how to add receive data in an endpoint and how to add, read and mutate state in their application.&lt;&#x2F;p&gt;
+&lt;p&gt;Roland tought participants, how they can render server side html with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;djc&#x2F;askama&quot;&gt;askama&lt;&#x2F;a&gt;. He showed
+how you can compose html templates together to build a bigger template. Or inherit a base layout, which is important if you want
+to have e.g. a navigation bar or a footer for your web application.&lt;&#x2F;p&gt;
+&lt;p&gt;Silen showed in the end how &lt;a href=&quot;https:&#x2F;&#x2F;htmx.org&#x2F;&quot;&gt;htmx&lt;&#x2F;a&gt; works. How you can simply fetch HTML and insert, or exchange the fetched HTML in the DOM.
+Moreover he showed live examples from his work, where he uses HTMX with Kotlin and showed it. He also built
+a htmx web application in this year&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;www.baselhack.ch&#x2F;&quot;&gt;baselhack&lt;&#x2F;a&gt;, that he also showcased.&lt;&#x2F;p&gt;
+&lt;p&gt;After a small pizza break, the participants could apply the tought content in a free manner, where they could
+build a small application themselves, or just tried out things in the specified parts (Webserver, Rendering, HTMX).&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-meetup-itself&quot;&gt;The meetup itself&lt;&#x2F;h1&gt;
+&lt;p&gt;We had 6 participants (9 with the organizers), that enjoyed a lecture in the morning, Pizza at &lt;a href=&quot;https:&#x2F;&#x2F;www.vito.ch&#x2F;&quot;&gt;VITO&lt;&#x2F;a&gt; at Aeschenplatz in Basel,
+and a &amp;quot;hacking&amp;quot; part in the afternoon. They could either build their own application, or build on top the tought content and
+got help from lecturers, if they needed.&lt;&#x2F;p&gt;
+&lt;p&gt;Some impressions from this meetup:&lt;&#x2F;p&gt;
+&lt;div style=&quot;display:flex; justify-content:space-between&quot;&gt;
+    &lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;workshop-33.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+    &lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;workshop-31.jpg&quot; width=&quot;50%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h1&gt;
+&lt;p&gt;We are very grateful for Endress+Hauser Digital Solutions for sponsoring the food and drinks for this event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;EndressLogo.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;We are also very grateful for &lt;a href=&quot;https:&#x2F;&#x2F;www.letsboot.ch&#x2F;&quot;&gt;Letsboot.ch&lt;&#x2F;a&gt; for sponsoring the location of this event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;LetsBoot.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;If you want to scale your software or systems engineering career, make sure to check out one of their courses!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;next-meetup&quot;&gt;Next meetup&lt;&#x2F;h1&gt;
+&lt;p&gt;If you like to attend future meetup meetings you can find the them &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;See you next time! :)&lt;&#x2F;p&gt;
+&lt;p&gt;Roland, Silen and Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

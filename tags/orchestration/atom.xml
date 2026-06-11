@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Orchestration</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/orchestration/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-14T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/orchestration/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #13</title>
+        <published>2025-10-14T00:00:00+00:00</published>
+        <updated>2025-10-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Jan Cristina
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-13/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-13/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-13/">&lt;h1 id=&quot;rust-basel-meetup-11&quot;&gt;Rust Basel Meetup #11 –&lt;&#x2F;h1&gt;
+&lt;p&gt;Our 13th on-site meetup, generously sponsored and hosted by &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;blog&#x2F;rust-meetup-13&#x2F;letsboot.ch&quot;&gt;letsboot&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;microphone-the-talks&quot;&gt;🎤 The Talks&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jusong Yu&lt;&#x2F;strong&gt; How Rust enables you to create a domain specific language&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Jônatas Oliveira&lt;&#x2F;strong&gt; One login to rule them all&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;With the fall air getting cooler and the nights getting longer we had another couple of interesting talks. First Jusong Yu discussed how Rust enabled his team to build
+a domain specific language for workflow orchestration: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;unkcpz&#x2F;slides-basel-rust-meetup-2025&quot;&gt;slides&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Then Jônatas Oliveira presented &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jonatasoli&#x2F;keyrunes&quot;&gt;keyrunes&lt;&#x2F;a&gt; a modern, attribute-aware access control engine written in Rust, offering a lightweight
+alternative to keycloak.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;beverage-box-community-snacks&quot;&gt;🧃 Community + Snacks&lt;&#x2F;h3&gt;
+&lt;p&gt;We had some new joiners again, and lots of discussion, with some snacks as well&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;orange-heart-thank-you&quot;&gt;🧡 Thank You!&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Letsboot&lt;&#x2F;strong&gt; – for the lovely venue.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;stay-in-touch&quot;&gt;➕ Stay in Touch&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Join us on &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;discord&quot;&gt;Discord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Check out upcoming events and blog posts at &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&quot;&gt;rust-basel.ch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Or just drop by the next meetup and say hi!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+</content>
+        
+    </entry>
+</feed>

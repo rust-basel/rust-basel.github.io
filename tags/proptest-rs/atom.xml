@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - proptest-rs</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/proptest-rs/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-12-14T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/proptest-rs/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #8</title>
+        <published>2023-12-14T00:00:00+00:00</published>
+        <updated>2023-12-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Guenduez
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-8/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-8/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-8/">&lt;p&gt;This time we had a remote session with two crate maintainers: Alan Somers from the mockall crate and Tomas Zevanovic from the proptest-rs crate.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;asomers&#x2F;mockall&quot;&gt;Mockall&lt;&#x2F;a&gt;: Alan Somers&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;proptest-rs&#x2F;proptest&quot;&gt;Proptest-rs&lt;&#x2F;a&gt;: Tomas Zevanovic &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;mockall&quot;&gt;Mockall&lt;&#x2F;h2&gt;
+&lt;p&gt;Alan Somers presented his crate mockall, where you can easily write mock objects. &lt;&#x2F;p&gt;
+&lt;p&gt;Mocks are powerful, as they can implement the same interfaces like your real objects. Their behaviour is fully controlled by the test code - making upper layers of your dependency chain easily testable.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are more interested in his talk, have a look at the &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;11wtjU8RGr6PQTft6V8jIn2dP7Cc1O4Kx&#x2F;view?usp=drive_link&quot;&gt;video session&lt;&#x2F;a&gt; we recorded.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;proptest-rs&quot;&gt;Proptest-rs&lt;&#x2F;h2&gt;
+&lt;p&gt;Proptest-rs is a property testing framework. With this you can check that certain properties of the output of your code is fulfilled for every possible input. Tomas Zevanovic showed us some examples on how you can use proptest-rs to test your code.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to have a look into his talk, here is his &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1aTICaGEiaNLHXA-3PkMVgsRpMMnRRPdW&#x2F;view?usp=drive_link&quot;&gt;recording&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
