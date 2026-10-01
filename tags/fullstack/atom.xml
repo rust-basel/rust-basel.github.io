@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Fullstack</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/fullstack/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-27T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/fullstack/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Workshop #2</title>
+        <published>2024-04-27T00:00:00+00:00</published>
+        <updated>2024-04-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Gündüz
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-workshop-2/"/>
+        <id>https://rust-basel.ch/blog/rust-workshop-2/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-workshop-2/">&lt;h1 id=&quot;topic&quot;&gt;Topic&lt;&#x2F;h1&gt;
+&lt;p&gt;Our second Rust workshop in Basel. This time it&#x27;s been about fullstack Rust.
+Writing your backend, and also your frontend in the rust programming language.
+For this workshop we used &lt;a href=&quot;https:&#x2F;&#x2F;dioxuslabs.com&#x2F;&quot;&gt;dioxus&lt;&#x2F;a&gt;, where you can write your front end completely rust.
+It also offers UI native for desktop and even for mobile apps.&lt;&#x2F;p&gt;
+&lt;p&gt;This time we built a fullstack web application with our attendees, where you can create, delete
+shopping lists, as well as items in these shopping lists.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;&#x2F;h1&gt;
+&lt;p&gt;The guidebook from the past workshop you can find &lt;a href=&quot;https:&#x2F;&#x2F;rust-basel.ch&#x2F;fullstack-rust-workshop&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;. If you want to have the solutions for the guidebook from above - have a look &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;workshop-2&quot;&gt;here&lt;&#x2F;a&gt;.
+The directories in the solution repository correspond to the chapter in the book (just in case you get stuck).&lt;&#x2F;p&gt;
+&lt;p&gt;If you do not feel like recoding it yourself, you can also clone the finished Github repository &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-basel&#x2F;axum-dioxus-shopping-list&quot;&gt;here&lt;&#x2F;a&gt;. Note: This repo was created beforehand (As we learned dioxus there first hand ;&amp;gt;). So the last chapter in the solution differes from this solution and also might not be the most idiomatic rust code.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-meetup-itself&quot;&gt;The meetup itself&lt;&#x2F;h1&gt;
+&lt;p&gt;We had like 22 attendees in the Markthalle in Basel. Atmosphere was great - food was sponsored be Endress+Hauser - and the attendees learned something new. In total a successful meetup!&lt;&#x2F;p&gt;
+&lt;p&gt;Below some impressions in images:&lt;&#x2F;p&gt;
+&lt;div style=&quot;display:flex; justify-content:center&quot;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto2.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto1.jpg&quot; width=&quot;30%&quot; style=&quot;margin-right=5px&quot;&#x2F;&gt;
+&lt;img title=&quot;some title&quot; alt=&quot;Alt text&quot; src=&quot;&#x2F;img&#x2F;Foto3.jpg&quot; width=&quot;30%&quot;&#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;Feedback from our community (to improve for next time):&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;feedback.jpg&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;sponsors&quot;&gt;Sponsors&lt;&#x2F;h1&gt;
+&lt;p&gt;We are very grateful for Endress+Hauser Digital Solutions for sponsoring this event. With their help we could sponsor the location
+as well as the beverage (lunch+drinks) during the event.&lt;&#x2F;p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;img src=&quot;&#x2F;img&#x2F;EndressLogo.png&quot; alt=&quot;Alt Text&quot; width=&quot;50%&quot; style=&quot;display: block; margin: 0 auto;&quot; &#x2F;&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;If you are looking for a job, we can recommend Endress+Hauser as a great place to work! Have a look at their &lt;a href=&quot;https:&#x2F;&#x2F;www.us.endress.com&#x2F;en&#x2F;career&#x2F;job-opportunities&quot;&gt;job offers&lt;&#x2F;a&gt;. They might soon also have some Rust jobs ;). Stay tuned!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;next-meetup&quot;&gt;Next meetup&lt;&#x2F;h1&gt;
+&lt;p&gt;If you like to attend future meetup meetings you can find the them &lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;rust-basel&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;See you next time! :)&lt;&#x2F;p&gt;
+&lt;p&gt;Roland &amp;amp; Yasin&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

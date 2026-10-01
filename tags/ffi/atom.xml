@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - FFI</title>
+    <link rel="self" type="application/atom+xml" href="https://rust-basel.ch/tags/ffi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://rust-basel.ch"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-03-28T00:00:00+00:00</updated>
+    <id>https://rust-basel.ch/tags/ffi/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Rust Meetup #7</title>
+        <published>2023-03-28T00:00:00+00:00</published>
+        <updated>2023-03-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Yasin Guenduez
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://rust-basel.ch/blog/rust-meetup-7/"/>
+        <id>https://rust-basel.ch/blog/rust-meetup-7/</id>
+        
+        <content type="html" xml:base="https://rust-basel.ch/blog/rust-meetup-7/">&lt;p&gt;This time we had three interesting talks: from Attila Bujaki, Roland Brand and Yasin Gündüz.&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cloud Native Event Streaming (Attila Bujaki)&lt;&#x2F;li&gt;
+&lt;li&gt;IDE-level coding in Web Apps (Roland Brand)&lt;&#x2F;li&gt;
+&lt;li&gt;Foreign Function Interfaces (Yasin Gündüz)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;cloud-native-event-streaming&quot;&gt;Cloud Native Event Streaming&lt;&#x2F;h2&gt;
+&lt;p&gt;Attila Bujaki showed us how you can leverage &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;txpipe&#x2F;oura&quot;&gt;Oura&lt;&#x2F;a&gt; to create a realtime event-stream from the Cardano Blockchain.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested, have a look at his &lt;a href=&quot;https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1upqLGw3vnqFiuWXtfcpB9q04s0H7-TL_&#x2F;view&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ide-level-coding-in-web-apps&quot;&gt;IDE-level coding in Web Apps&lt;&#x2F;h2&gt;
+&lt;p&gt;Interested in building a web based IDE? Roland Brand showed us a live prototyp which does exactly this. Leveraging the language server protocol (lsp), served with websockets with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tokio-rs&#x2F;axum&quot;&gt;axum&lt;&#x2F;a&gt; you got autocompletion in his web editor.&lt;&#x2F;p&gt;
+&lt;p&gt;You can also have a sneak peak into his &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1BdkUcrBshtd4XkH_NpWh_a0vXNGpGdyJ&#x2F;edit#slide=id.p1&quot;&gt;slides&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;foreign-function-interfaces&quot;&gt;Foreign Function Interfaces&lt;&#x2F;h2&gt;
+&lt;p&gt;Sadly most of the project you face today in the industry are not greenfield projects, where you can start from scratch. In brownfield projects it&#x27;s more interesting how you can integrate e.g. a rust written library into already existing projects. Yasin showed us, how you can easily write a rust library, that is consumed in a C++ executable with &lt;a href=&quot;https:&#x2F;&#x2F;cxx.rs&quot;&gt;CXX&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;corrosion-rs&#x2F;corrosion&quot;&gt;Corrosion&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested, have a look into:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1h-85FV6myH_K9KIWYPGGgiB8Izp7zx5RUpfd3k2_0Ys&#x2F;edit#slide=id.g21665984530_0_0&quot;&gt;Slides&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;yguenduez&#x2F;cxx-corrosion-ffi&quot;&gt;Example Project&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
