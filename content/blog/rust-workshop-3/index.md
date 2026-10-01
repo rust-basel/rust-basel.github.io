@@ -22,7 +22,7 @@ defined place in the DOM.
 
 # Resources
 
-The guidebook from this workshop you can find [here](https://rust-basel.ch/https://rust-basel.ch/htmx-workshop-meetup-10/).
+The guidebook from this workshop you can find [here](https://rust-basel.ch/htmx-workshop-meetup-10/).
 If you also want to execute the code snippets we provided, you can also clone/fork the [repository](https://github.com/rust-basel/htmx-workshop-meetup-10) direclty, as everything is
 in the same place.
 
